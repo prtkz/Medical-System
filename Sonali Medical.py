@@ -63,7 +63,7 @@ class Window1:
             user = (self.Username.get())
             pswd = (self.Password.get())
             
-            if (user == str('pratik')) and (pswd == str(12345)):
+            if (user == str('pratik')) and (pswd == str(89567)):
                 self.btnRegistration.config(state= NORMAL)
                
             else:
